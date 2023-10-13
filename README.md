@@ -1,9 +1,9 @@
-:octocat::birthday: 6 years
-Pushed 2937 commits  
-Own 14 repositories with 531 :star:  
-Contributed to 31 repositories with [246 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [13 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
+:octocat::birthday: 7 years  
+Pushed 4254 commits  
+Own 16 repositories with 654 :star:  
+Contributed to 48 repositories with [328 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [15 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
 
 ##### Lastest blog posts
-- [Managing FreeBSD Jails with Ansible - part 3](https://eoli3n.eu.org/2021/06/14/jails-part-3.html)
-- [Managing FreeBSD Jails with Ansible - part 2](https://eoli3n.eu.org/2021/06/09/jails-part-2.html)
-- [Managing FreeBSD Jails with Ansible - part 1](https://eoli3n.eu.org/2021/06/08/jails-part-1.html)
+- [Stop battery draining by Syncthing on Android](https://eoli3n.eu.org/2021/12/29/syncthing-battery-draining.html)
+- [Degoogling](https://eoli3n.eu.org/2021/12/21/degoogling-android.html)
+- [Monitoring](https://eoli3n.eu.org/2021/12/10/monitoring.html)
