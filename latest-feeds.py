@@ -32,7 +32,7 @@ def template_readme(feed_lst, readme):
     f.close()
 
 def main():
-    latest_feeds = get_latest_feeds('https://eoli3n.eu.org/feed.xml')
+    latest_feeds = get_latest_feeds('https://eoli3n.github.io/feed.xml')
     template_readme(latest_feeds, './README.md')
 
 if __name__ == '__main__':
