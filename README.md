@@ -1,7 +1,7 @@
 :octocat::birthday: 7 years  
-Pushed 5553 commits  
-Own 16 repositories with 785 :star:  
-Contributed to 26 repositories with [347 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [21 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
+Pushed 5555 commits  
+Own 16 repositories with 788 :star:  
+Contributed to 25 repositories with [347 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [21 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
 
 ##### Lastest blog posts
 - [Stop battery draining by Syncthing on Android](https://eoli3n.github.io/2021/12/29/syncthing-battery-draining.html)
