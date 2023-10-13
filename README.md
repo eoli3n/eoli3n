@@ -1,7 +1,7 @@
 :octocat::birthday: 6 years  
-Pushed 3006 commits  
+Pushed 3009 commits  
 Own 14 repositories with 540 :star:  
-Contributed to 31 repositories with [255 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [13 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
+Contributed to 33 repositories with [257 issues](https://github.com/issues?q=is%3Aissue+author%3Aeoli3n) and [14 pull requests](https://github.com/pulls?q=is%3Apr+author%3Aeoli3n+)
 
 ##### Lastest blog posts
 - [Degoogling](https://eoli3n.eu.org/2021/12/21/degoogling-android.html)
