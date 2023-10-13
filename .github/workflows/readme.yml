@@ -12,8 +12,7 @@ jobs:
       with:
         fetch-depth: 0
     - name: Profile Readme Stats
-      #uses: teoxoy/profile-readme-stats@master
-      uses: devmount/profile-readme-stats@v1.3
+      uses: teoxoy/profile-readme-stats@master
       with:
         token: ${{ secrets.USER_TOKEN }}
     - uses: actions/setup-python@v2
